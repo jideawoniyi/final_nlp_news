@@ -1,0 +1,37 @@
+header {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .logo {
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+  }
+  
+  .navigation {
+    display: flex;
+  }
+  
+  .navigation li {
+    list-style: none;
+    margin-right: 20px;
+  }
+  
+  .navigation li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+  }
+  
+  .navigation li a:hover {
+    color: #ccc;
+  }
+  
